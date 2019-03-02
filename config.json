@@ -1,6 +1,6 @@
-{"chrome_driver" : "/Users/kujin/Downloads/chromedriver",
+{"chrome_driver" : "/Users/GeniusTang/Downloads/chromedriver",
 "profile_path" : "./profile/",
 "url" : "https://www.nike.com/launch/t/air-jordan-4-white-bright-crimson-black/",
 "size" : "8.5",
 "time" : "2019-03-01 17:08:00",
-"cvv" : "9273"}
+"cvv" : "1234"}
