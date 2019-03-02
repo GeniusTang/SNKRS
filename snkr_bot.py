@@ -139,7 +139,7 @@ class snkr_bot(object):
         self._wait(partial(self._go_to_url, 'https://www.nike.com/us/en/checkout'))
         self._wait(self._find_cvv_iframe)
         self._wait(self._enter_cvv)
-        self._wait(self._place_order)
+        #self._wait(self._place_order)
 
     def _buy(self):
         """
